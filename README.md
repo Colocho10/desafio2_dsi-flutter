@@ -1,6 +1,13 @@
-# desafio2_dsi
+# Desarrollo de Software para IOS: Desafio 2.
 
-A new Flutter project.
+### Carlos Eduardo Siliézar Colocho - #SC202203
+
+# Links 🔗
+
+> Explicación de código: 
+
+> Figma: 
+
 
 ## Getting Started
 
