@@ -4,7 +4,7 @@
 
 # Links 🔗
 
-> Explicación de código: 
+> Explicación de código: https://youtu.be/Pvls8gaYAYM
 
 > Figma: https://www.figma.com/file/PmiJTc52v9DQeMTyyVvbMX/DESAFIO-2-DSI-NBA-APP?type=design&node-id=0%3A1&mode=design&t=JeGoZtBMjiG0tbWf-1
 
